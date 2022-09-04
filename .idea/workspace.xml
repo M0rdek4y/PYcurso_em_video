@@ -2,15 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761bd944-5672-4009-a76b-116fd60e6de0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mundo_2/Aula/Aula 15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex071.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 10/Aula 10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 10/Pratica.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 11/aula 11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 4/DESAFIO 01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 4/DESAFIO 02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 4/DESAFIOEXTRA01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 6/DESAFIO 03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 6/DESAFIO 04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 6/aula06b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/Aula 7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 7/DESAFIO 9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 8/pratica.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 8/pratica2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 9/Aula 9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Aulas python/Aula 9/Desafio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex013.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex014.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex016.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex017.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex023.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex024.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex025.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex026.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex027.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex028.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex029.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex030.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex031.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex032.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex033.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex034.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/ex035.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo_1/Exercicios de python/wakawaka.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
