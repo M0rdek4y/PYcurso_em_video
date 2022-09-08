@@ -13,6 +13,6 @@ for c in range(0+1, 5):
     elif idade <= 20 and sexo == 'feminino' or idade <= 20 and sexo == 'f' or idade <= 20 and sexo == '2':
         menoridade += 1
     mediaidade += idade
-print("""A idade média do grupo é de: {} anos;
+print("""A idade média do temp é de: {} anos;
       O nome do homem mais velho tem {} anos e se chama {};
       Ao todo são {} mulheres com menos de 20 anos.""".format(mediaidade/4, maioridade, maisvelho, menoridade))
