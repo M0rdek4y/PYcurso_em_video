@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761bd944-5672-4009-a76b-116fd60e6de0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mundo_3/Aula/Aula 18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo_3/Aula/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex095.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo_2/Exercicios de python/ex056.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +60,8 @@
       <recent name="C:\Users\M0rdek4y\Desktop\Python\scripts-python\Aulas python\Aula 7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex089">
-    <configuration name="ex085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex095">
+    <configuration name="ex091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scripts-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex091.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex086" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scripts-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex086.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex092.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex087" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scripts-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex087.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex093.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex088" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex094" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scripts-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex088.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex094.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scripts-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex089.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mundo_3/Exercicios de python/ex095.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex089" />
-        <item itemvalue="Python.ex088" />
-        <item itemvalue="Python.ex087" />
-        <item itemvalue="Python.ex086" />
-        <item itemvalue="Python.ex085" />
+        <item itemvalue="Python.ex095" />
+        <item itemvalue="Python.ex094" />
+        <item itemvalue="Python.ex093" />
+        <item itemvalue="Python.ex092" />
+        <item itemvalue="Python.ex091" />
       </list>
     </recent_temporary>
   </component>
