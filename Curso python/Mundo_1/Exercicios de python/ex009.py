@@ -1,4 +1,4 @@
-from stylefont import aze, ved, azc, res, rox, ama
+from stylefont import aze, ved, azc, res, ama
 
 num = int(input('{}Digite um valor: '.format(aze)))
 b = ('–'*16)

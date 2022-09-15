@@ -1,13 +1,13 @@
 import stylefont
 from time import sleep
 
-c = (stylefont.res,     # 0 - sem cores
-     stylefont.fvem,    # 1 - vermelho
-     stylefont.fved,    # 2 - verde
-     stylefont.fama,    # 3 - amarelo
-     stylefont.faze,    # 4 - azul
-     stylefont.frox,    # 5 - roxo
-     stylefont.sinv     # 6 - branco
+c = (stylefont.res,  # 0 - sem cores
+     stylefont.fvem,  # 1 - vermelho
+     stylefont.fved,  # 2 - verde
+     stylefont.fama,  # 3 - amarelo
+     stylefont.faze,  # 4 - azul
+     stylefont.frox,  # 5 - roxo
+     stylefont.sinv  # 6 - branco
      )
 
 
