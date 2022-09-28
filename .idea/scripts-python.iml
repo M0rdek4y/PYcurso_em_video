@@ -7,4 +7,18 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex115/lib" />
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex115" />
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex108" />
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex107" />
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex109" />
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex110" />
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex111" />
+        <option value="$MODULE_DIR$/Curso python/Mundo_3/Exercicios de python/ex112" />
+      </list>
+    </option>
+  </component>
 </module>
